@@ -31,7 +31,6 @@ v_norm = norm(v)
 # Equation: (u·w)/‖u‖ = (v·w)/‖v‖  because cos(k)=cos(z), just bcs w bisects
 # => (4*x + 3*y)/‖u‖ = (40*x - 9*y)/‖v‖
 x = 1
-# TODO: compute y from the equation
 y = ((40*x)/v_norm - (4*x)/u_norm) / (3/u_norm + 9/v_norm)
 w = [x, y]
 
