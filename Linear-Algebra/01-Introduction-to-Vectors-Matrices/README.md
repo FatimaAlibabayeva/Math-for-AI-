@@ -1,4 +1,4 @@
-Movie Recommendation System (Mini-Project)
+**Movie Recommendation System (Mini Project)**
 **Overview**
 
 This is a simple Movie Recommendation System built using Python and Linear Algebra concepts. The system recommends movies to a user based on the preferences of the most similar users. It demonstrates how dot product and cosine similarity can be used in AI recommendation systems.
