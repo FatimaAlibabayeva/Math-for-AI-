@@ -1,9 +1,9 @@
 # Math-for-AI
 Documenting my learning journey of math foundations for AI, including challenging problems and mini-projects.
 ## Topics
-- **Linear Algebra** – vectors, matrices, linear equations, eigenvalues, linear transformations.
-- **Calculus** – limits, derivatives, integrals (planned).
-- **Statistics** – probability, distributions, hypothesis testing (planned).
+- **Linear Algebra** – vectors, matrices, linear equations, eigenvalues,svd,linear transformations.
+- **Calculus** – limits, derivatives, integrals,Taylor series,hessian matrix, gradient descen, Adam,bfgs, Lagrange, Newton method etc.
+- **Statistics** – probability, distributions,correlatio,covariance, hypothesis testing,Anova.
 ## How to Use
 1. Browse through folders by topic.
 2. Each topic contains subfolders for chapters and lessons.
