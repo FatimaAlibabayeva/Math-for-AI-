@@ -3,7 +3,7 @@ Documenting my learning journey of math foundations for AI, including challengin
 ## Topics
 - **Linear Algebra** – vectors, matrices, linear equations, eigenvalues,svd,linear transformations.
 - **Calculus** – limits, derivatives, integrals,Taylor series,hessian matrix, gradient descen, Adam,bfgs, Lagrange, Newton method etc.
-- **Statistics** – probability, distributions,correlatio,covariance, hypothesis testing,Anova.
+- **Statistics** – probability, distributions,correlation,covariance, hypothesis testing,Anova.
 ## How to Use
 1. Browse through folders by topic.
 2. Each topic contains subfolders for chapters and lessons.
